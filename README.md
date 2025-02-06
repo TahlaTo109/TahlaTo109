@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TahlaTo109
-- 👀 I’m interested in learning how to be a software developer
-- 🌱 I’m currently learning CSS
-- 😄 Pronouns: She/Her
-
+- New to programming
+- Currently learning CSS
+- Hoping to gain the skills needed to
+  become a front-end developer
 
 <!---
 TahlaTo109/TahlaTo109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
